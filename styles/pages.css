@@ -473,7 +473,11 @@ img {
   .item-12 {
     grid-column-start: 1; 
   }
-  .item-5-ill {
+  #ill-images{
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  /*.item-5-ill {
     grid-column-start: 1;
     grid-column-end: 4;
   }
@@ -652,7 +656,7 @@ img {
   .item-49-ill {
     grid-column-start: 1;
     grid-column-end: 4;
-  }
+  }*/
 }
 
 @media (max-width: 500px) and (min-width: 200px){
