@@ -475,7 +475,7 @@ img {
   }
   .item-5-ill {
     grid-column-start: 1;
-    grid-column-end: 3;
+    grid-column-end: 4;
   }
   .item-6-ill {
     grid-column-start: 1;
@@ -547,7 +547,7 @@ img {
   }
   .item-23-ill {
     grid-column-start: 1;
-    grid-column-end: 3;
+    grid-column-end: 4;
   }
   .item-24-ill {
     grid-column-start: 1;
@@ -820,6 +820,114 @@ img {
     grid-column-end: 4;
   }
   .item-22-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-23-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-24-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;    
+  }
+  .item-25-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-26-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-27-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-28-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-29-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-30-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-31-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-32-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-33-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-34-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-35-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-36-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-37-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-38-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-39-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-40-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-41-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-42-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-43-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-44-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-45-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-46-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-47-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-48-ill {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  .item-49-ill {
     grid-column-start: 1;
     grid-column-end: 4;
   }
