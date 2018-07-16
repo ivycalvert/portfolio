@@ -156,6 +156,33 @@ footer {
   color: black;
 }
 
+.dryad-button {
+  border: none;
+  outline: 0;
+  /*display: inline-block;*/
+  padding: 10px 25px;
+  color: white;
+  /*background-color: #ddd;*/
+  text-align: center;
+  cursor: pointer;
+  border-radius: 0.3rem;
+  font-family: 'Raleway', sans-serif;
+  background-color: #557455;
+  font-size: 0.75rem;
+  -webkit-transition: background-color 0.3s ease;
+  -moz-transition: background-color 0.3s ease;
+  -o-transition: background-color 0.3s ease;
+  transition: background-color 0.3s ease;
+}
+.dryad-button:hover {
+  background-color: #3d543d;
+  color: white;
+}
+.dryad-button a {
+  text-decoration: none;
+  color: black;
+}
+
 .openup-button {
   border: none;
   outline: 0;
