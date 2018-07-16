@@ -156,7 +156,7 @@ footer {
   color: black;
 }
 
-.dryad-button {
+button.dryad-button {
   border: none;
   outline: 0;
   /*display: inline-block;*/
@@ -174,11 +174,11 @@ footer {
   -o-transition: background-color 0.3s ease;
   transition: background-color 0.3s ease;
 }
-.dryad-button:hover {
+button.dryad-button:hover {
   background-color: #3d543d;
   color: white;
 }
-.dryad-button a {
+button.dryad-button a {
   text-decoration: none;
   color: black;
 }
