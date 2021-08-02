@@ -946,6 +946,6 @@ blockquote {
 }
 
 .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
-  object-fit: cover;
+  object-fit: contain;
   height: 35rem;
 }
