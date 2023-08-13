@@ -105,6 +105,11 @@ p {
   color: #ffc800 !important;
 }
 
+.row {
+  margin-left: 0px;
+  margin-right:0px;
+}
+
 @media (min-width: 768px) {
   section {
     padding: 9rem 0;
