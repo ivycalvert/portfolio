@@ -51,6 +51,7 @@ p {
 
 li {
   color: #383838;
+  line-height: 28px;
 }
 
 ::-moz-selection {
