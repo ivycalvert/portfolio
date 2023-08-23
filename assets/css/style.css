@@ -45,6 +45,14 @@ p {
   line-height: 28px;
 }
 
+.first {
+  margin-top: 10px;
+}
+
+li {
+  color: #383838;
+}
+
 ::-moz-selection {
   background: #780404;
   color: #fff;
@@ -466,7 +474,7 @@ p {
   font-size: 25px;
 }
 
-.work-title h4 {
+.work-title h4, .work-title h1 {
   display: block;
   font-size: 19px;
   line-height: 24px;
@@ -474,6 +482,11 @@ p {
   font-weight: 500;
   color: #780404;
   transition: all 0.5s ease-in-out 0s;
+}
+
+.subheading {
+  font-size: 1.5rem;
+  margin-top: 20px;
 }
 
 
